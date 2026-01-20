@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.*
+
+# builds
+dist/
+build/
+
+# turbo
+.turbo/
+
+# expo
+.expo/
